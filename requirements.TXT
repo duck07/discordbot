@@ -10,3 +10,5 @@ timeout
 PyNaCl
 random
 и файл ffmpeg.exe
+если не знаете как скачать ссылка на обьяснение вот https://www.youtube.com/watch?v=2eSRuadzJxA
+(либо в PATH либо в папку проекта закинуть ffmpeg.exe)
