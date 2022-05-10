@@ -541,5 +541,5 @@ async def hi(ctx):
 async def bye(ctx):
     await ctx.bot.logout()
 
-
-bot.run('OTY0MDc2OTg4OTIwODkzNDcx.YlfYqQ.r7n672QVrblJJ-zFSEOsWeIWh7Q')
+# токен лежит в requirements.txt
+bot.run('insert token here')
