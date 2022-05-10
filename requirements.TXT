@@ -1,0 +1,12 @@
+Для работы бота нужны следующие модули
+asyncio
+functools
+itertools
+math
+requests
+discord
+youtube_dl
+timeout
+PyNaCl
+random
+и файл ffmpeg.exe
