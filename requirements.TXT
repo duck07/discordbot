@@ -12,4 +12,5 @@ random
 и файл ffmpeg.exe
 если не знаете как скачать ссылка на обьяснение вот https://www.youtube.com/watch?v=2eSRuadzJxA
 (либо в PATH либо в папку проекта закинуть ffmpeg.exe)
+ссылка на ffmpeg.exe https://disk.yandex.ru/d/RtECIHL2T2YZYw
 (token OTY0MDc2OTg4OTIwODkzNDcx.Get4Xv._8eT_bOAUhJv-K0QJr6OYH5ovZaFOC5Pq-llYA)
